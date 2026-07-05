@@ -1,128 +1,86 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
-    "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+  "title": "Miguel Martínez | Portafolio",
+  "description": "Estudiante de DAM especializado en soporte técnico y bases de datos.",
+  "image": "/avatar.jpg",
+  "avatar": "/avatar.jpg",
+  "name": "Miguel Martínez",
+  "skill": "Estudiante de DAM · Soporte IT y bases de datos",
+  "location": "Barcelona",
+  "media": {
+    "email": "costamarmi18@gmail.com",
+    "cv": "/data/cv.pdf",
+    "github": "https://github.com/miguelmartinez-dev",
+    "likedin": "https://linkedin.com/in/TU_USUARIO"
+  },
+  "about": "Vengo del soporte técnico —gestión de tickets, usuarios y sistemas— tras mis prácticas en BSE, donde también trabajé con bases de datos MySQL, la parte que más me atrae. Ahora curso el Grado Superior de DAM y busco unas prácticas para el curso 2026-2027 donde pueda seguir creciendo en desarrollo y datos.",
+  "technologies": [
+    { "icon": "devicon-java-plain", "name": "Java" },
+    { "icon": "devicon-mysql-plain", "name": "SQL / MySQL" },
+    { "icon": "devicon-html5-plain", "name": "HTML" },
+    { "icon": "devicon-css3-plain", "name": "CSS" },
+    { "icon": "devicon-javascript-plain", "name": "JavaScript" },
+    { "icon": "devicon-git-plain", "name": "Git" },
+    { "icon": "devicon-linux-plain", "name": "Linux" }
+  ],
+  "experience": [
+    {
+      "icon": "terminal",
+      "title": "BSE",
+      "subtitle": "Técnico en prácticas — Departamento de IT",
+      "description": "Gestión de tickets con Jira Service Management, administración de usuarios en Google Workspace, instalación de equipos y soporte en bases de datos MySQL.",
+      "date": "Sep 2024 - Feb 2025"
+    }
+  ],
+  "projects": [
+    {
+      "icon": "database",
+      "title": "Nombre del proyecto",
+      "subtitle": "Descripción corta",
+      "description": "Sustituye esto por tu proyecto: qué hace y qué problema resuelve.",
+      "technologies": [
+        { "icon": "devicon-java-plain", "name": "Java" },
+        { "icon": "devicon-mysql-plain", "name": "MySQL" }
+      ],
+      "image": "/project_1.jpg",
+      "url": "",
+      "github": "https://github.com/miguelmartinez-dev"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
-    "technologies": [
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
-        },
-        {
-            "icon": "devicon-python-plain",
-            "name": "Python"
-        }
-    ],
-    "experience": [
-        {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
-        }
-    ],
-    "projects": [
-        {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
-            "technologies": [
-                {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
-        }
-    ],
-    "training": [
-        {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        }
-    ],
-    "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
-    ]
+    {
+      "icon": "code",
+      "title": "Nombre del proyecto 2",
+      "subtitle": "Descripción corta",
+      "description": "Sustituye esto por tu segundo proyecto.",
+      "technologies": [
+        { "icon": "devicon-html5-plain", "name": "HTML" },
+        { "icon": "devicon-css3-plain", "name": "CSS" }
+      ],
+      "image": "/project_2.jpg",
+      "url": "",
+      "github": "https://github.com/miguelmartinez-dev"
+    }
+  ],
+  "training": [
+    {
+      "icon": "graduation-cap",
+      "title": "Politecnics, Barcelona",
+      "subtitle": "Grado Superior de DAM",
+      "description": "Desarrollo de Aplicaciones Multiplataforma.",
+      "date": "2025 - Actualidad"
+    },
+    {
+      "icon": "backpack",
+      "title": "Stucom, Barcelona",
+      "subtitle": "Grado Medio en SMX",
+      "description": "Sistemas Microinformáticos y Redes.",
+      "date": "2023 - 2025"
+    },
+    {
+      "icon": "school",
+      "title": "Institut Sant Medir, Barcelona",
+      "subtitle": "ESO",
+      "description": "Educación Secundaria Obligatoria.",
+      "date": "2019 - 2023"
+    }
+  ],
+  "extras": []
 }
