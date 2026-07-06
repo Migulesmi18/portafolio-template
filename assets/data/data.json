@@ -4,15 +4,14 @@
   "image": "/avatar.jpg",
   "avatar": "/avatar.jpg",
   "name": "Miguel Martínez",
-  "skill": "Estudiante de DAM · Soporte IT y bases de datos",
+  "skill": "Estudiante de DAM · Soporte IT",
   "location": "Barcelona",
   "media": {
     "email": "costamarmi18@gmail.com",
     "cv": "/data/cv.pdf",
-    "github": "https://github.com/miguelmartinez-dev",
-    "likedin": "https://linkedin.com/in/TU_USUARIO"
+    "github": "https://github.com/miguelmartinez-dev"
   },
-  "about": "Vengo del soporte técnico —gestión de tickets, usuarios y sistemas— tras mis prácticas en BSE, donde también trabajé con bases de datos MySQL, la parte que más me atrae. Ahora curso el Grado Superior de DAM y busco unas prácticas para el curso 2026-2027 donde pueda seguir creciendo en desarrollo y datos.",
+  "about": "Estudiante de DAM con base real en soporte técnico: durante mis prácticas en BSE gestioné tickets, usuarios y sistemas, además de dar apoyo en administración de bases de datos MySQL, la parte que más me atrae. Me interesa el desarrollo en general, y me gustaría seguir creciendo también en el trabajo con datos. Busco unas prácticas para el curso 2026-2027 donde pueda aportar desde el primer día y seguir aprendiendo.",
   "technologies": [
     { "icon": "devicon-java-plain", "name": "Java" },
     { "icon": "devicon-mysql-plain", "name": "SQL / MySQL" },
@@ -42,19 +41,6 @@
         { "icon": "devicon-mysql-plain", "name": "MySQL" }
       ],
       "image": "/project_1.jpg",
-      "url": "",
-      "github": "https://github.com/miguelmartinez-dev"
-    },
-    {
-      "icon": "code",
-      "title": "Nombre del proyecto 2",
-      "subtitle": "Descripción corta",
-      "description": "Sustituye esto por tu segundo proyecto.",
-      "technologies": [
-        { "icon": "devicon-html5-plain", "name": "HTML" },
-        { "icon": "devicon-css3-plain", "name": "CSS" }
-      ],
-      "image": "/project_2.jpg",
       "url": "",
       "github": "https://github.com/miguelmartinez-dev"
     }
